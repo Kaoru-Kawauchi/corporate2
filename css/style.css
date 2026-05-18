@@ -140,7 +140,7 @@ nav {
 .lang-switch {
   position: absolute;
   top: 20px;
-  right: 180px;
+  right: 220px;
   z-index: 100;
 }
 
@@ -567,8 +567,26 @@ footer
   font-size: 0 !important;
 }
 
+/*
 .goog-te-gadget span {
   display: none !important;
+}
+*/
+
+/* Powered by Google を消す */
+.goog-logo-link {
+  display: none !important;
+}
+
+/* 翻訳バー余白調整 */
+.goog-te-gadget {
+  color: transparent !important;
+}
+
+/* セレクトボックス */
+.goog-te-combo {
+  padding: 5px;
+  font-size: 14px;
 }
 
 .goog-te-gadget img {
@@ -580,7 +598,9 @@ footer
   background: transparent !important;
 }
 
+/*
 .goog-te-combo {
   font-size: 14px !important;
   padding: 5px;
 }
+*/
