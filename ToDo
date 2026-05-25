@@ -1,8 +1,7 @@
 1.内藤のGitHubアカウントを作成する
 2.内藤のYouTubeアカウントを作成する
-
 3.内藤のGitHubアカウントにPrivateリポジトリを作成する
 4.内藤のGitHubリポジトリに対して川内を共同編集者として設定する
-　（これでwebsiteのソースをGitHub上で共有できる）
+　（リポジトリのURLを川内がCloneすることで、websiteのソースをGitHub上で共有できる）
 5.内藤のYouTubeアカウントにMOVファイルなどをアップロードする
 6.website側でEthiopia関連のページを作り、YouTube動画へのリンクを埋め込む
